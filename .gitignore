@@ -7,4 +7,4 @@ tmp/*
 doc/api
 doc/app
 *.swp
-.DS_Storeo
+.DS_Store
